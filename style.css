@@ -318,19 +318,19 @@ section .title::after{
     font-size: 20px;
     font-weight: 600;
     margin-bottom: 10px;
-    margin-left: -20px;
+    margin-left: 30px;
 }
 .skills .skills-content .left p{
     text-align: justify;
     margin-top:-15px;
-    margin-left: -20px;
+    margin-left: 30px;
 }
 
 .skills .skills-content .left h5{
     text-align: justify;
     margin-top: -14px;
     margin-bottom: 25px;
-    margin-left: -20px;
+    margin-left: 30px;
 }
 .skills .skills-content .left a{
     display: inline-block;
